@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jeremie_lecuyer@hotmail.fr
+	name = Jeremie Lecuyer
